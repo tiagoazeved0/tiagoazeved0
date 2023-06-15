@@ -1,4 +1,4 @@
-👋 Hi, I’m Tiago Azevedo, and I'm currently working as a Automation Engineer @ Axians! 
+👋 Hi, I’m Tiago Azevedo, and I'm currently working as a Automation Engineer @ SpriteCloud ! 
 
 🌱 I’m currently working with Java and Javascript, using Selenium, Karate, Cypress, Cucumber.
 
